@@ -1,2 +1,12 @@
-# Dhameliya_H_HW1
- This is a repo for HW1.
+# Team Name
+Team description
+
+## Hansini Chetan Dhameliya
+I also go by *Chini*.
+
+### About Me
+1. **Background**: Indian(Gujarati)
+2. **Hobbies**: Sports, Music, Sketching
+3. **Likes**: YouTube, Food, Art, This Course (～o￣3￣)～
+4. **Dislikes**: Javascript
+5. **LinkedIn Profile**: [Hansini Dhameliya](www.linkedin.com/in/hansini-dhameliya-a01282265)
