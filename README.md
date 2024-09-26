@@ -30,3 +30,13 @@ I have no nickname so you can call me Nargiz :b
 
 
 ![Shego from Kim Possible](/images/thumb-1920-879111.png)
+
+
+## Contribuing
+
+## History
+
+## License
+
+***MIT License***
+
