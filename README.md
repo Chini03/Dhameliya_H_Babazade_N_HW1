@@ -35,6 +35,10 @@ I have no nickname so you can call me Nargiz :b
 ## Contribuing
 
 ## History
+September 26th, 2024
+
+## Credits
+Hansini Chetan Dhameliya, Babazade Nargiz
 
 ## License
 
