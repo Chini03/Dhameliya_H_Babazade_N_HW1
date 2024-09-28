@@ -1,5 +1,5 @@
-# Team Name
-Team description
+# Metal Heads 🎵
+We don't bite.(*Promise*)
 
 ## Hansini Chetan Dhameliya
 I also go by *Chini*.
@@ -42,5 +42,5 @@ Hansini Chetan Dhameliya, Babazade Nargiz
 
 ## License
 
-***MIT License***
+MIT
 
